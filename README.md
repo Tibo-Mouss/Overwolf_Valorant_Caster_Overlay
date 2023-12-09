@@ -14,3 +14,4 @@ Here are some screenshots :
 
 ![ALT](./in_game_test.png)
 ![ALT](./menu_with_settings.png)
+![ALT](./in_game_preround.png)
