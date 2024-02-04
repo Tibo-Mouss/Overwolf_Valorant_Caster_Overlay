@@ -11,6 +11,12 @@ It's goal is to display the players stats for casters and for viewers of tournam
 
 It's an overwolf app, which will be available on their store once it's ready :)
 
+----
+Updates (04/02/2023) :
+Currently, we investigted two ways of getting the information from the game, by memory reading from overwolf, and from internal & official Riot apis. However those two don't provide the necessary informations that we need. Last resort we have is to implement a real time image to text recognition system to examine what is happening in game.
+If you want to give us a hand on that, feel free to contact me on the Riot Games Third Party Developer Discord Community server : https://discord.com/invite/riotgamesdevrel, @Moussmous
+----
+
 Here are some screenshots :
 
 ![ALT](./in_game_test.png)
